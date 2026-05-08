@@ -1,0 +1,15 @@
+v1
+phase=PLAYING
+turn=PLAYER
+round=1
+skipP=false
+skipC=false
+pName=Player
+pScore=0
+pEnergy=5
+cName=Computer
+cScore=0
+cEnergy=5
+pHand=C010\pZephyr\pAIR\p6\p2\p2\p/images/cards/C010.png,C003\pStone\pEARTH\p5\p6\p3\p/images/cards/C003.png,C002\pTide\pWATER\p4\p4\p2\p/images/cards/C002.png,C030\pDusk\pDARK\p8\p6\p2\p/images/cards/C030.png,C025\pInferno\pFIRE\p3\p2\p1\p/images/cards/C025.png
+cHand=C012\pVoid\pDARK\p8\p6\p4\p/images/cards/C012.png,C007\pCinder\pFIRE\p3\p2\p3\p/images/cards/C007.png,C013\pBlaze\pFIRE\p3\p2\p1\p/images/cards/C013.png,C029\pRadiant\pLIGHT\p7\p4\p1\p/images/cards/C029.png,C004\pGale\pAIR\p6\p2\p4\p/images/cards/C004.png
+deck=C028\pVortex\pAIR\p6\p2\p4\p/images/cards/C028.png,C019\pPyre\pFIRE\p3\p2\p3\p/images/cards/C019.png,C022\pWisp\pAIR\p6\p2\p2\p/images/cards/C022.png,C008\pRipple\pWATER\p4\p4\p4\p/images/cards/C008.png,C017\pSeraph\pLIGHT\p7\p4\p1\p/images/cards/C017.png,C001\pEmber\pFIRE\p3\p2\p1\p/images/cards/C001.png,C024\pEclipse\pDARK\p8\p6\p4\p/images/cards/C024.png,C015\pRoot\pEARTH\p5\p6\p3\p/images/cards/C015.png,C006\pShade\pDARK\p8\p6\p2\p/images/cards/C006.png,C011\pDawn\pLIGHT\p7\p4\p3\p/images/cards/C011.png,C016\pNimbus\pAIR\p6\p2\p4\p/images/cards/C016.png,C021\pTitan\pEARTH\p5\p6\p1\p/images/cards/C021.png,C014\pTorrent\pWATER\p4\p4\p2\p/images/cards/C014.png,C027\pBriar\pEARTH\p5\p6\p3\p/images/cards/C027.png,C026\pAbyss\pWATER\p4\p4\p2\p/images/cards/C026.png,C020\pNaiad\pWATER\p4\p4\p4\p/images/cards/C020.png,C023\pBeacon\pLIGHT\p7\p4\p3\p/images/cards/C023.png,C009\pGolem\pEARTH\p5\p6\p1\p/images/cards/C009.png,C018\pWraith\pDARK\p8\p6\p2\p/images/cards/C018.png,C005\pHalo\pLIGHT\p7\p4\p1\p/images/cards/C005.png
